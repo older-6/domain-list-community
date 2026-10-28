@@ -707,3 +707,9 @@ full:www-googletagmanager.l.google.com @cn
 full:www.destinationurl.com @cn
 full:www.gstatic.com @cn
 full:www.pxcc.com @cn
+
+# Google Antigravity & Remote Control Workstation
+antigravity
+cloudworkstations.dev
+# Google STUN for WebRTC signaling
+stun.l.google.com
